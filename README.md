@@ -101,6 +101,9 @@ Two distinct leaver archetypes were identified:
 - Low salary is a consistent attrition driver across all departments
 - Employees on 7 projects show **100% attrition** in the dataset
 
+
+<img width="908" height="537" alt="Feature Important Plot" src="https://github.com/user-attachments/assets/68642d4d-25a4-4011-9e55-e32d52725a28" />
+
 ---
 
 ## ✅ Recommendations
